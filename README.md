@@ -1,7 +1,7 @@
 # get_next_line
 Write a function which returns a line read from a file descriptor, without the newline.
 
-[!mark](https://github.com/rubenoid/get_next_line/blob/main/gnl_mark.png)
+[!mark](https://github.com/rubenoid/get_next_line/blob/main/gnl_mark.png?raw=true)
 
 ## Function name
 get_next_line
